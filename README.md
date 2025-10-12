@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JU-ICT Girls
 
 Community site for JU-ICT Girls — learn, build, and lead in tech.
@@ -34,3 +35,6 @@ npm run preview
 ## Branding
 
 This codebase has been debranded from external scaffolding; metadata now reflects JU-ICT Girls.
+=======
+# ju-web-app-frontend
+>>>>>>> 4945ae7254c65e7aa40638c5c1702b7d89c727de
